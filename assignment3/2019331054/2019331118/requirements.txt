@@ -1,0 +1,1 @@
+tk numexpr sympy numpy matplotlib
